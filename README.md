@@ -1,1 +1,2 @@
-# learn_rust
+# learn_rust  
+https://doc.rust-lang.org/book/title-page.html
